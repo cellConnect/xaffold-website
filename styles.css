@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #042346;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main {
+  max-width: 800px;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 64px;
+  margin-bottom: 20px;
+}
+
+.tagline {
+  color: #8AB4F8;
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.coming-soon {
+  color: #00B4D8;
+  margin-top: 40px;
+  font-weight: bold;
+}
