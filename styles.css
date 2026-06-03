@@ -1,9 +1,13 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+
 body {
   margin: 0;
   min-height: 100vh;
   background: #042346;
   color: white;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -34,13 +38,16 @@ h1 {
 }
 
 .tagline {
-  color: #8AB4F8;
-  font-size: 24px;
+  color: #EAF2FF;
+  font-size: 22px;
   line-height: 1.5;
+  max-width: 650px;
 }
 
 .coming-soon {
-  color: #00B4D8;
-  margin-top: 40px;
-  font-weight: bold;
+  color: #8AB4F8;
+  margin-top: 48px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
 }
