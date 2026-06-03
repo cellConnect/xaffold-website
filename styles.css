@@ -10,13 +10,27 @@ body {
 }
 
 main {
-  max-width: 800px;
+  max-width: 700px;
   padding: 40px;
 }
 
 h1 {
+  margin: 0 0 24px 0;
+  line-height: 1;
+  margin-bottom: 40px;
+}
+
+.x {
+  font-size: 88px;
+  font-weight: 700;
+  color: white;
+}
+
+.affold {
   font-size: 64px;
-  margin-bottom: 20px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: white;
 }
 
 .tagline {
