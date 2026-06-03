@@ -1,6 +1,4 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+
 
 body {
   margin: 0;
@@ -19,23 +17,23 @@ main {
 }
 
 h1 {
-  margin: 0 0 24px 0;
+  margin: 0 0 40px 0;
   line-height: 1;
-  margin-bottom: 40px;
+  white-space: nowrap;
 }
 
 .x {
   font-size: 88px;
   font-weight: 700;
   color: white;
-  margin-right: 0.12em;
 }
 
 .affold {
   font-size: 64px;
   font-weight: 600;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.03em;
   color: white;
+  padding-left: 8px;
 }
 
 .tagline {
