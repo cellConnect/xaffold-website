@@ -35,7 +35,15 @@ h1 {
   color: white;
   padding-left: 8px;
 }
-
+.pronunciation {
+  color: #8AB4F8;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  margin-top: -20px;
+  margin-bottom: 40px;
+  opacity: 0.8;
+}
 .tagline {
   color: #EAF2FF;
   font-size: 22px;
